@@ -1,3 +1,6 @@
+Since Momentum is an inertia clone with real branding, I'm going to leave Inertia's FAQ Intact for now.
+
+
 So what the heck is Inertia?
 ============================
 
